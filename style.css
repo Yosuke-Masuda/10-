@@ -56,15 +56,13 @@ footer {
   background-color: #aaaaaa;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   header {
     width: 100%;
   }
   main {
     width: 100%;
     display: block;
-    padding-top: 50px;
-    padding-bottom: 50px;
   }
   .step-box {
     width: 90%;
